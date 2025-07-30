@@ -2,7 +2,7 @@ streamlit
 yfinance
 pandas
 numpy
-scikit-learn
 matplotlib
 ta
-tensorflow
+tensorflow==2.10.1
+ml_dtypes==0.2.0
